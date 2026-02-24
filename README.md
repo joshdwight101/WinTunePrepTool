@@ -1,5 +1,7 @@
 # Microsoft Win32 Content Prep Tool
 
+My Fork includes Powershell Files to Help Automate and/or Provide a GUI for use alongside the Microsoft Win32 Content Prep Tool
+
 Manage Windows Apps (.intunewin) with Intune
 
 [Version 1.8.7](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/releases/tag/v1.8.7)
